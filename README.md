@@ -1,6 +1,9 @@
 
 # House Rental Pricing across various cities in India
 This project aims to conduct a comprehensive analysis of rental prices in residential properties, by employing data analytics techniques. The project seeks to generate insights that can inform landlords, property managers, and potential tenants about pricing dynamics in the rental market.
+
+<img width="1437" alt="House Rental Pricing across Cities in India" src="https://github.com/user-attachments/assets/a88941e2-ce9c-48ed-9e3e-26e41e9d89a2">
+
 # Objective
 Analyze rental price trends in the housing market across various cities in India by providing insights into the dynamics of the rental market.
 # Dataset Overview
